@@ -27,12 +27,12 @@ My goal is to build scalable backend systems integrated with blockchain and grow
 
 ## 🛠️ Tech Stack
 
-* 💻 Java, Spring Boot, Spring MVC
-* 🌐 REST APIs, Microservices
-* 🗄️ PostgreSQL, MySQL
-* ☁️ AWS (EC2)
-* 🔧 Git, JIRA, CI/CD
-* ⚡ Currently Learning: Solana, Rust, Web3
+*  Java, Spring Boot, Spring MVC
+*  REST APIs, Microservices
+*  PostgreSQL, MySQL
+*  AWS (EC2)
+*  Git, JIRA, CI/CD
+*  Currently Learning: Solana, Rust, Web3
 
 ---
 
