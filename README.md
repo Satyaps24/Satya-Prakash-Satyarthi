@@ -1,6 +1,5 @@
 # Satya-Prakash-Satyarthi
-#  Hi, I'm Satya Prakash
-
+Hi, I'm Satya Prakash
 * Backend Developer with 4.5+ years of experience in Java & Spring Boot
 * Passionate about building scalable systems, REST APIs, and microservices
 
